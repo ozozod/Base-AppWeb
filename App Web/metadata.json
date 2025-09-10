@@ -1,0 +1,5 @@
+{
+  "name": "NFC Event Management System",
+  "description": "A web application to manage a centralized database for an NFC-based transaction system operating on a local network. This dashboard allows for event creation, transaction monitoring, and management of NFC cards and users.",
+  "requestFramePermissions": []
+}
